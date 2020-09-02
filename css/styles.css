@@ -91,10 +91,11 @@ height: 1300px;
 }
 .main-cont2{
   float: left;
-
+position: relative;
 }
 .main-cont3{
   float: right;
+   position: relative;
 }
 .main3{
   background-color: #bfdcae;
