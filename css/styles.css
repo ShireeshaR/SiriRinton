@@ -159,11 +159,11 @@ position: relative;
   padding-top: 50px;
 }
 video{
-  height: 200px;
-  width: 300px;
+  height: 400px;
+  width: 500px;
 }
 .footer2{
   height: auto;
-  background-color: #31112c;
+  margin: 50px;
   color: white;
 }
