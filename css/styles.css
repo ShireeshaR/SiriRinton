@@ -24,7 +24,7 @@ h2{
 }
 .Welcome{
   background-color: #fbe2e5;
-height: 1300px;
+height: auto;
   border-radius: 50px;
 }
  #welcome-h1{
@@ -143,7 +143,7 @@ position: relative;
 }
 .end1{
   background-color: #c3aed6;
-  height: 1100px;
+  height: auto;
   margin: 0;
   border-radius: 50px;
 }
